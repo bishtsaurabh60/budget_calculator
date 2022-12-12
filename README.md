@@ -10,7 +10,7 @@ Client: HTML, CSS, JAVASCRIPT
 ## Demo
 # [Live Demo](https://budgetcalculator-bishtsaurabh60.netlify.app/)
 
-![App Screenshot](/screenshot/screenshot.png)
+![App Screenshot](/screenshot/Screenshot.png)
 ## Run Locally
 
 Clone the project
