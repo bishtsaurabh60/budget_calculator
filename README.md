@@ -8,7 +8,8 @@ this project was boot@starpped with [vite](https://vitejs.dev/)
 Client: HTML, CSS, JAVASCRIPT
 
 ## Demo
-# [Live Demo](https://budgetcalculator-bishtsaurabh60.netlify.app/)
+
+### Check Out [Live Demo](https://budgetcalculator-bisht60.netlify.app/)
 
 ![App Screenshot](/screenshot/Screenshot.png)
 ## Run Locally
